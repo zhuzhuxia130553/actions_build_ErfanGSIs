@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://gauss-componentotacostmanual-cn.allawnfs.com/remove-6faafd5ab747616cf4ee187331e8dc08/component-ota/23/11/29/f7c76f8b7985492a96f4d6b67cb5b0da.zip
-  ROM_NAME: COLOROS
+  ROM_NAME: f7c76f8b7985492a96f4d6b67cb5b0da
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
